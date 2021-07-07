@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: rgb(240, 190, 205);
+}
+        
+#container {
+    position: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(240, 190, 205);
+    text-align: center;
+
+}
+
